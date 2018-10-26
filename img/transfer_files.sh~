@@ -1,0 +1,15 @@
+cp frame-exact-00000.png \
+   frame-exact-00010.png \
+   frame-exact-00020.png \
+   frame-exact-00030.png \
+   frame-exact-00040.png \
+   frame-exact-00050.png \
+   frame-exact-00060.png \
+   frame-exact-00070.png \
+   frame-exact-00080.png \
+   frame-exact-00090.png \
+   frame-exact-00100.png \
+   frame-exact-00110.png \
+   frame-exact-00120.png \
+   frame-exact-00130.png \
+   frame-exact-00140.png . 

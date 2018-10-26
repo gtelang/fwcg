@@ -1,0 +1,10 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{An O\(logn\) approximation algorithm}{}% 2
+\BOOKMARK [1][-]{section.3}{Case: Delivery Order is Given}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Comparing the exact and LP approximation ratio}{section.3}% 4
+\BOOKMARK [1][-]{section.4}{Two heuristics}{}% 5
+\BOOKMARK [2][-]{subsection.4.1}{Greedy Heuristic}{section.4}% 6
+\BOOKMARK [2][-]{subsection.4.2}{Clustering-Based Heuristic}{section.4}% 7
+\BOOKMARK [2][-]{subsection.4.3}{An Example}{section.4}% 8
+\BOOKMARK [2][-]{subsection.4.4}{Comparing tour-lengths for the two heurisitcs}{section.4}% 9
+\BOOKMARK [1][-]{section*.8}{References}{}% 10

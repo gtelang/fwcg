@@ -1,0 +1,81 @@
+Notes based on TikZ tutorial on YouTube @ rivervalleyTV
+
+There are optional tikz libraries which you can include in your TeX document. 
+This seems similar to Diagrams, where there is a main Prelude that includes almost everything.
+
+You have both polar and cartesian coordinates. Coordinates, explicit, named , calculated 
+or otherwise are chained together with path operations to draw graphics. 
+
+The path operation -- is used to draw lines. 
+
+\draw (1,0) -- (0,1) -- (-1,0) -- (0,-1) -- cycle;
+
+You can also specify various options in square brackets to draw
+
+grids, 
+rectangles
+cuircles, 
+ellipses,
+arcs, 
+bezier cuves
+
+These are all path operations which re inbuilt. 
+
+
+How do you name coordiantes? 
+
+\coordinate (origin) at (0 : 0);
+\cordinate  (A)  at at (blah: blah)
+
+\draw (A) -- (B) -- ...... -- cycle;
+
+TikZ also has its own iteration mechanism. 
+The foreach package can also be used for non TilZ
+iterations in TeX. Yay! 
+
+\foreach macro. 
+
+
+\foreach \i in {0,...,6}
+
+Nodes are coordinates with text and shape. This is critical for 
+computational geometry!
+
+
+\node (v0) at (0,0) [draw, circle] {$v_0$}
+
+the Math engine can be used outside TikZ, just like
+the iteration mechanism. 
+
+Many functions, mod, max, min, sin, asun, acos, < == > 
+Arithmetic operators. Curly braces tell TikZ that we are referring to 
+mathemticas.  To perform coordinate calculations, the calc library
+is required, \usetikzlibrary{calc}, i.e. manipulating them 
+like vectors. 
+
+
+You also have the let operation which allows coordinates
+to be defined that are available for just oe path. This shines
+in calculations. 
+
+There is a function called veclength which does distance 
+calculations for you. let syntax aso allows you to extract x and y 
+components. 
+
+
+TikZ can also intersections between two line and a line, a circle and a line
+and two circles. You can also embed tikz pictures inline, as you are 
+writing a sentnece. 
+
+
+There are seveal tikz add on libraries. See tkz-2d.
+
+GeoGebra could export to TikZ a long while backGeoGebra could export 
+to TikZ a long while back. 
+
+Geogebra can also export to Beamer format. TikZ is not 
+particularly strong in data-visualization, but there is a 
+package which can take matlab plots and produce TuikZ codes.
+
+There are many packages and programs which TikZ as a springboard. 
+
