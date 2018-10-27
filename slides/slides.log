@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.5.20)  26 OCT 2018 11:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.5.20)  27 OCT 2018 10:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2030,7 +2030,7 @@ rted-to.pdf>
 (epstopdf)                    size: 129535 bytes
 (epstopdf)             Command: <repstopdf --outfile=slide_imgs/k2means_explain
 _input-eps-converted-to.pdf slide_imgs/k2means_explain_input.eps>
-(epstopdf)             \includegraphics on input line 486.
+(epstopdf)             \includegraphics on input line 485.
 Package epstopdf Info: Output file is already uptodate.
 
 <slide_imgs/k2means_explain_input-eps-converted-to.pdf, id=307, 488.82625pt x 3
@@ -2039,10 +2039,10 @@ File: slide_imgs/k2means_explain_input-eps-converted-to.pdf Graphic file (type
 pdf)
  <use slide_imgs/k2means_explain_input-eps-converted-to.pdf>
 Package pdftex.def Info: slide_imgs/k2means_explain_input-eps-converted-to.pdf 
-used on input line 486.
+used on input line 485.
 (pdftex.def)             Requested size: 187.78836pt x 146.14626pt.
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 486--486
+Overfull \hbox (0.4pt too wide) in paragraph at lines 485--485
 [][]  
  []
 
@@ -2058,7 +2058,7 @@ nverted-to.pdf>
 (epstopdf)                    size: 288129 bytes
 (epstopdf)             Command: <repstopdf --outfile=slide_imgs/k2means_explain
 _cluster1-eps-converted-to.pdf slide_imgs/k2means_explain_cluster1.eps>
-(epstopdf)             \includegraphics on input line 486.
+(epstopdf)             \includegraphics on input line 485.
 Package epstopdf Info: Output file is already uptodate.
 
 <slide_imgs/k2means_explain_cluster1-eps-converted-to.pdf, id=317, 582.175pt x 
@@ -2067,10 +2067,10 @@ File: slide_imgs/k2means_explain_cluster1-eps-converted-to.pdf Graphic file (ty
 pe pdf)
  <use slide_imgs/k2means_explain_cluster1-eps-converted-to.pdf>
 Package pdftex.def Info: slide_imgs/k2means_explain_cluster1-eps-converted-to.p
-df used on input line 486.
+df used on input line 485.
 (pdftex.def)             Requested size: 227.62204pt x 177.77583pt.
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 486--486
+Overfull \hbox (0.4pt too wide) in paragraph at lines 485--485
 [][]  
  []
 
@@ -2086,7 +2086,7 @@ nverted-to.pdf>
 (epstopdf)                    size: 349359 bytes
 (epstopdf)             Command: <repstopdf --outfile=slide_imgs/k2means_explain
 _cluster2-eps-converted-to.pdf slide_imgs/k2means_explain_cluster2.eps>
-(epstopdf)             \includegraphics on input line 486.
+(epstopdf)             \includegraphics on input line 485.
 Package epstopdf Info: Output file is already uptodate.
 
 <slide_imgs/k2means_explain_cluster2-eps-converted-to.pdf, id=326, 582.175pt x 
@@ -2095,10 +2095,10 @@ File: slide_imgs/k2means_explain_cluster2-eps-converted-to.pdf Graphic file (ty
 pe pdf)
  <use slide_imgs/k2means_explain_cluster2-eps-converted-to.pdf>
 Package pdftex.def Info: slide_imgs/k2means_explain_cluster2-eps-converted-to.p
-df used on input line 486.
+df used on input line 485.
 (pdftex.def)             Requested size: 227.62204pt x 177.77583pt.
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 486--486
+Overfull \hbox (0.4pt too wide) in paragraph at lines 485--485
 [][]  
  []
 
@@ -2109,22 +2109,22 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 486--486
 File: ../img/greedy_example.pdf Graphic file (type pdf)
 
 <use ../img/greedy_example.pdf>
-Package pdftex.def Info: ../img/greedy_example.pdf used on input line 520.
+Package pdftex.def Info: ../img/greedy_example.pdf used on input line 519.
 (pdftex.def)             Requested size: 147.95424pt x 156.62373pt.
 
 <../img/k2means_example.pdf, id=336, 582.175pt x 616.3025pt>
 File: ../img/k2means_example.pdf Graphic file (type pdf)
 
 <use ../img/k2means_example.pdf>
-Package pdftex.def Info: ../img/k2means_example.pdf used on input line 520.
+Package pdftex.def Info: ../img/k2means_example.pdf used on input line 519.
 (pdftex.def)             Requested size: 147.95424pt x 156.62373pt.
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 520--520
+Overfull \hbox (0.4pt too wide) in paragraph at lines 519--519
 [][]  
  []
 
 
-Overfull \vbox (29.06839pt too high) detected at line 520
+Overfull \vbox (29.06839pt too high) detected at line 519
  []
 
 [28
@@ -2138,49 +2138,41 @@ File: slide_imgs/compare_k2means_greedy.png Graphic file (type png)
 
 <use slide_imgs/compare_k2means_greedy.png>
 Package pdftex.def Info: slide_imgs/compare_k2means_greedy.png used on input li
-ne 529.
+ne 528.
 (pdftex.def)             Requested size: 341.43306pt x 177.03012pt.
 
-Overfull \hbox (34.14319pt too wide) in paragraph at lines 529--529
+Overfull \hbox (34.14319pt too wide) in paragraph at lines 528--528
  [] 
  []
 
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 529--529
+Overfull \hbox (0.4pt too wide) in paragraph at lines 528--528
 [][]  
  []
 
 [29
 
  <./slide_imgs/compare_k2means_greedy.png (PNG copy)>]
-<slide_imgs/logn_approx.png, id=420, 973.38657pt x 393.72093pt>
+<slide_imgs/logn_approx.png, id=420, 779.91376pt x 401.24907pt>
 File: slide_imgs/logn_approx.png Graphic file (type png)
 
 <use slide_imgs/logn_approx.png>
-Package pdftex.def Info: slide_imgs/logn_approx.png used on input line 545.
-(pdftex.def)             Requested size: 327.20668pt x 132.3494pt.
+Package pdftex.def Info: slide_imgs/logn_approx.png used on input line 544.
+(pdftex.def)             Requested size: 284.52756pt x 146.38428pt.
 
-Overfull \hbox (19.91681pt too wide) in paragraph at lines 545--545
- [] 
- []
-
-
-Overfull \hbox (0.4pt too wide) in paragraph at lines 545--545
+Overfull \hbox (0.4pt too wide) in paragraph at lines 544--544
 [][]  
  []
 
 [30
 
  <./slide_imgs/logn_approx.png (PNG copy)>]
-LaTeX Font Info:    Try loading font information for OMS+cmss on input line 553
-.
-LaTeX Font Info:    No file OMScmss.fd. on input line 553.
+<slide_imgs/wbsst.png, id=426, 783.67781pt x 423.83344pt>
+File: slide_imgs/wbsst.png Graphic file (type png)
 
-
-LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
-(Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbullet' on input line 553.
-
+<use slide_imgs/wbsst.png>
+Package pdftex.def Info: slide_imgs/wbsst.png used on input line 553.
+(pdftex.def)             Requested size: 284.52756pt x 153.8798pt.
 
 Overfull \hbox (0.4pt too wide) in paragraph at lines 553--553
 [][]  
@@ -2188,11 +2180,28 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 553--553
 
 [31
 
+ <./slide_imgs/wbsst.png (PNG copy)>]
+LaTeX Font Info:    Try loading font information for OMS+cmss on input line 562
+.
+LaTeX Font Info:    No file OMScmss.fd. on input line 562.
+
+
+LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbullet' on input line 562.
+
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 562--562
+[][]  
+ []
+
+[32
+
 ]
 ! Undefined control sequence.
 <recently read> \centeringe 
                             
-l.562 \end{frame}
+l.571 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2209,26 +2218,26 @@ to.pdf>
 (epstopdf)                    size: 47906 bytes
 (epstopdf)             Command: <repstopdf --outfile=slide_imgs/reverse_horsefl
 y-eps-converted-to.pdf slide_imgs/reverse_horsefly.eps>
-(epstopdf)             \includegraphics on input line 562.
+(epstopdf)             \includegraphics on input line 571.
 Package epstopdf Info: Output file is already uptodate.
 
-<slide_imgs/reverse_horsefly-eps-converted-to.pdf, id=432, 573.14125pt x 445.66
+<slide_imgs/reverse_horsefly-eps-converted-to.pdf, id=438, 573.14125pt x 445.66
 5pt>
 File: slide_imgs/reverse_horsefly-eps-converted-to.pdf Graphic file (type pdf)
  <use slide_imgs/reverse_horsefly-eps-converted-to.pdf>
 Package pdftex.def Info: slide_imgs/reverse_horsefly-eps-converted-to.pdf used 
-on input line 562.
+on input line 571.
 (pdftex.def)             Requested size: 284.52756pt x 221.24748pt.
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 562--562
+Overfull \hbox (0.4pt too wide) in paragraph at lines 571--571
 [][]  
  []
 
 
-Overfull \vbox (22.30156pt too high) detected at line 562
+Overfull \vbox (22.30156pt too high) detected at line 571
  []
 
-[32
+[33
 
  <./slide_imgs/reverse_horsefly-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <slide_imgs/fixed_truck_route_variant.eps>
@@ -2240,24 +2249,24 @@ onverted-to.pdf>
 (epstopdf)                    size: 200634 bytes
 (epstopdf)             Command: <repstopdf --outfile=slide_imgs/fixed_truck_rou
 te_variant-eps-converted-to.pdf slide_imgs/fixed_truck_route_variant.eps>
-(epstopdf)             \includegraphics on input line 572.
+(epstopdf)             \includegraphics on input line 581.
 Package epstopdf Info: Output file is already uptodate.
 
-<slide_imgs/fixed_truck_route_variant-eps-converted-to.pdf, id=444, 430.60875pt
+<slide_imgs/fixed_truck_route_variant-eps-converted-to.pdf, id=450, 430.60875pt
  x 310.15875pt>
 File: slide_imgs/fixed_truck_route_variant-eps-converted-to.pdf Graphic file (t
 ype pdf)
 
 <use slide_imgs/fixed_truck_route_variant-eps-converted-to.pdf>
 Package pdftex.def Info: slide_imgs/fixed_truck_route_variant-eps-converted-to.
-pdf used on input line 572.
+pdf used on input line 581.
 (pdftex.def)             Requested size: 227.62204pt x 163.95268pt.
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 572--572
+Overfull \hbox (0.4pt too wide) in paragraph at lines 581--581
 [][]  
  []
 
-[33
+[34
 
  <./slide_imgs/fixed_truck_route_variant-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <slide_imgs/segment_horsefly.eps>
@@ -2269,22 +2278,22 @@ to.pdf>
 (epstopdf)                    size: 14544 bytes
 (epstopdf)             Command: <repstopdf --outfile=slide_imgs/segment_horsefl
 y-eps-converted-to.pdf slide_imgs/segment_horsefly.eps>
-(epstopdf)             \includegraphics on input line 582.
+(epstopdf)             \includegraphics on input line 591.
 Package epstopdf Info: Output file is already uptodate.
 
-<slide_imgs/segment_horsefly-eps-converted-to.pdf, id=457, 413.545pt x 261.9787
+<slide_imgs/segment_horsefly-eps-converted-to.pdf, id=463, 413.545pt x 261.9787
 4pt>
 File: slide_imgs/segment_horsefly-eps-converted-to.pdf Graphic file (type pdf)
  <use slide_imgs/segment_horsefly-eps-converted-to.pdf>
 Package pdftex.def Info: slide_imgs/segment_horsefly-eps-converted-to.pdf used 
-on input line 582.
+on input line 591.
 (pdftex.def)             Requested size: 227.62204pt x 144.20068pt.
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 582--582
+Overfull \hbox (0.4pt too wide) in paragraph at lines 591--591
 [][]  
  []
 
-[34
+[35
 
  <./slide_imgs/segment_horsefly-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <slide_imgs/multiple_drones.eps>
@@ -2296,33 +2305,33 @@ o.pdf>
 (epstopdf)                    size: 21804 bytes
 (epstopdf)             Command: <repstopdf --outfile=slide_imgs/multiple_drones
 -eps-converted-to.pdf slide_imgs/multiple_drones.eps>
-(epstopdf)             \includegraphics on input line 592.
+(epstopdf)             \includegraphics on input line 601.
 Package epstopdf Info: Output file is already uptodate.
 
-<slide_imgs/multiple_drones-eps-converted-to.pdf, id=469, 829.0975pt x 748.7975
+<slide_imgs/multiple_drones-eps-converted-to.pdf, id=475, 829.0975pt x 748.7975
 pt>
 File: slide_imgs/multiple_drones-eps-converted-to.pdf Graphic file (type pdf)
  <use slide_imgs/multiple_drones-eps-converted-to.pdf>
 Package pdftex.def Info: slide_imgs/multiple_drones-eps-converted-to.pdf used o
-n input line 592.
+n input line 601.
 (pdftex.def)             Requested size: 256.0748pt x 231.2679pt.
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 592--592
+Overfull \hbox (0.4pt too wide) in paragraph at lines 601--601
 [][]  
  []
 
 
-Overfull \vbox (28.01244pt too high) detected at line 592
- []
-
-[35
-
- <./slide_imgs/multiple_drones-eps-converted-to.pdf>]
-Overfull \hbox (0.4pt too wide) in paragraph at lines 606--606
-[][]  
+Overfull \vbox (28.01244pt too high) detected at line 601
  []
 
 [36
+
+ <./slide_imgs/multiple_drones-eps-converted-to.pdf>]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 615--615
+[][]  
+ []
+
+[37
 
 ]
 \tf@nav=\write8
@@ -2334,11 +2343,11 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 606--606
 \tf@snm=\write10
 \openout10 = `slides.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 608.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 608.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 617.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 617.
  (./slides.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 608.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 608.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 617.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 617.
 Package rerunfilecheck Info: File `slides.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -2352,14 +2361,14 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package logreq Info: Writing requests to 'slides.run.xml'.
 \openout1 = `slides.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 608.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 617.
  )
 (\end occurred when \iftrue on line 26 was incomplete) 
 Here is how much of TeX's memory you used:
- 26431 strings out of 493029
- 515494 string characters out of 6136234
+ 26440 strings out of 493029
+ 515637 string characters out of 6136234
  668811 words of memory out of 5000000
- 29309 multiletter control sequences out of 15000+600000
+ 29315 multiletter control sequences out of 15000+600000
  23506 words of font info for 85 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,13n,95p,1772b,825s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2384,10 +2393,10 @@ lic/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
 fonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmtt9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/
 msbm5.pfb>
-Output written on slides.pdf (36 pages, 5373058 bytes).
+Output written on slides.pdf (37 pages, 5453822 bytes).
 PDF statistics:
- 567 PDF objects out of 1000 (max. 8388607)
- 341 compressed objects within 4 object streams
- 73 named destinations out of 1000 (max. 500000)
- 213 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 576 PDF objects out of 1000 (max. 8388607)
+ 348 compressed objects within 4 object streams
+ 75 named destinations out of 1000 (max. 500000)
+ 218 words of extra memory for PDF output out of 10000 (max. 10000000)
 
